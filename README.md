@@ -29,7 +29,8 @@ Career Break to pursue Master of Science in Computer Science
 - [Google Cloud Certified Professional Cloud Architect](https://www.credential.net/5123f0fd-a5a1-4312-92e4-f43c5293e44b?key=91a885c944e84263bbf5a5877526e69bad7478e3000b4c55cef9ffc971ca1196)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b6001d99-5805-4713-a186-362aad22128d?source=linked_in_profile)
 - [Microsoft Certified - Azure Fundamentals](https://www.credly.com/badges/b5bc983c-5455-4880-98b2-35ca50c9ee7c/linked_in?t=rf0040)
-
+- [Microsoft Certified: Azure Data Scientist Associate](https://www.credly.com/badges/56df64bf-fed0-4659-84b4-5033ddcb2e65/linked_in?t=rnbnng)
+- [Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/06f64cf7-a272-40bf-ba67-eaa3b781e527/linked_in?t=rndfdq)
 
 # Tech Stack 
 

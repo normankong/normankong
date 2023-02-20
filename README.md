@@ -31,6 +31,8 @@ Career Break to pursue Master of Science in Computer Science
 - [Microsoft Certified - Azure Fundamentals](https://www.credly.com/badges/b5bc983c-5455-4880-98b2-35ca50c9ee7c/linked_in?t=rf0040)
 - [Microsoft Certified: Azure Data Scientist Associate](https://www.credly.com/badges/56df64bf-fed0-4659-84b4-5033ddcb2e65/linked_in?t=rnbnng)
 - [Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/06f64cf7-a272-40bf-ba67-eaa3b781e527/linked_in?t=rndfdq)
+- [ICNC 2023 International Conference on Computing, Networking and
+Communications] (https://docs.google.com/presentation/d/1QDveoo8K1V6ve3Xf-XKrfvDkpWnyxdb2/edit?usp=sharing&ouid=115295162048003083956&rtpof=true&sd=true)
 
 # Tech Stack 
 

@@ -3,7 +3,7 @@ Experienced software engineer specializing in web and mobile technologies, with 
 
 <a href="https://linkedin.com/in/normankong"><img src="https://img.shields.io/badge/normankong-blue?style=flat&logo=LinkedIn"/></a>
 <a href="mailto:normankong@gmail.com"><img src="https://img.shields.io/badge/-normankong-ffffff?style=flat&logo=Gmail"/></a>
-<a href="https://github.com/normankon"><img src="https://img.shields.io/badge/-normankong-000000?style=flat&logo=GitHub"/></a>
+<a href="https://github.com/normankong"><img src="https://img.shields.io/badge/-normankong-000000?style=flat&logo=GitHub"/></a>
 
 
 

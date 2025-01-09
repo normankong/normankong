@@ -5,8 +5,6 @@ Experienced software engineer specializing in web and mobile technologies, with 
 <a href="mailto:normankong@gmail.com"><img src="https://img.shields.io/badge/-normankong-ffffff?style=flat&logo=Gmail"/></a>
 <a href="https://github.com/normankong"><img src="https://img.shields.io/badge/-normankong-000000?style=flat&logo=GitHub"/></a>
 
-
-
 # Personal Interests
 - Cloud enthusiast
 - Google APIs for various services
@@ -17,6 +15,7 @@ Experienced software engineer specializing in web and mobile technologies, with 
 - [Open CV with object / posture detection]()
 - Restful API design
 - Workflow automation (including CD/CI and test automation)
+- Llama and AI Agent application development
 
 # Professional Qualification
 - Master in Computer Science - Northeastern University
@@ -37,11 +36,11 @@ Communications](https://docs.google.com/presentation/d/1QDveoo8K1V6ve3Xf-XKrfvDk
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jira_Software%402x-blue.png" alt="Jira" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | <img src="https://media.licdn.com/dms/image/v2/C5612AQGYcrHnJPs6eQ/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1602066334530?e=1729728000&v=beta&t=_PYG9JmWPbPp7aX7d7_TupcJTbzBO3o6gpGn1fRjmb4" width="60"> | <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="60"> | <img src="https://storage.googleapis.com/support-kms-prod/IO8gpztaELvBRHPnrxWQouV3NX1i1X22hpAd" width="60">
 
-
-
-
 # GitHub Analytics
 <p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=normankong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=normankong&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+# Dev Card
+<img src="https://api.daily.dev/devcards/v2/ZZC35B1nsm6NyGvhTPm2o.png?r=ri4" width="256" alt="Norman Kong's Dev Card"/>
